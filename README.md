@@ -1,2 +1,2 @@
-# whirrs
+# whiss
 whisper-based app
